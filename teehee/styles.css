@@ -1,0 +1,162 @@
+.hide {
+  display: none;
+}
+.visible {
+  display: block;
+}
+
+
+
+
+
+body, html {
+  min-height: 100vh;
+  background-color: #f5cbe6;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-size: 2rem;
+  font-family:Verdana, Tahoma, sans-serif;
+  color: #ba0081;
+  margin: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  text-shadow: 4px 4px 4px rgba(21, 0, 0, 0.3);
+}
+p {
+  font-family:Verdana, Tahoma, sans-serif;
+  color: #ba0081;
+  margin: 10px;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-size: 20px;
+}
+button {
+  max-width: 200px;
+  font-size: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 15px;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 20px;
+  border-color: #f5cbe6;
+  background-color: rgb(255, 115, 197);
+  font-family:Verdana, Tahoma, sans-serif;
+  color: #ffe9f8;
+}
+button:hover {
+  background-color: #ea37b4;
+}
+
+
+
+
+
+.enter-pg {
+  max-height: 100px;
+  width: 100px;
+  border-color:#f5cbe6;
+  background-color: #f5cbe6;
+}
+.borderpic2 {
+  max-height: 50px;
+}
+.image-place1 {
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+.entry-gif, .letter-btn {
+  background-color:#f5cbe6;
+  border: none;
+}
+.entry-gif > img {
+  height: 250px;
+}
+.cap-entry {
+  font-size: 15px;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+
+
+.entry-gif:hover {
+  background-color: #f5cbe6;
+}
+.letter-btn:hover {
+  background-color: #f5cbe6;
+}
+.entry {
+  min-height: 100%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;;
+}
+.image-place {
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image-place > img {
+  height: 300px;
+}
+.buttons {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+.pg2btn-div {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+.pg2btn {
+  font-size: 10px;
+}
+
+
+.letter-entry {
+  font-size: 25px;
+}
+.letterr {
+  font-size: 3rem;
+  color: #7a0055;
+  font-family:'Times New Roman', Times, serif;
+  margin: 20px;
+  text-align: center;
+  text-shadow: 4px 4px 4px rgba(21, 0, 0, 0.3);
+}
+.letter-p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-shadow: 4px 4px 4px rgba(21, 0, 0, 0.3);
+  text-align: left;
+}
+.image-place1 {
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image-place1 > img {
+  height: 100px;
+}
